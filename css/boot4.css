@@ -1,0 +1,24 @@
+/* .rounded{
+
+    width: 300px;
+    margin: auto;
+}
+.rounded img{
+    border-radius: 50%;
+    margin-top: 25%;
+}
+.imgn{
+    background: url(https://cdn.pixabay.com/photo/2016/11/29/05/55/asphalt-1867667_960_720.jpg);
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+} */
+#header{
+    background: url(https://cdn.pixabay.com/photo/2018/06/04/03/40/fantasy-3452327_960_720.jpg);
+    color: chartreuse;
+    font-weight: 800;
+    font-size: 1em;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
